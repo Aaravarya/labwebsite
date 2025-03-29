@@ -1,0 +1,23 @@
+[
+  {
+    "name": "John Doe",
+    "role": "PhD Candidate",
+    "focus": "Machine Learning Applications",
+    "year": "3rd Year",
+    "image": "john_doe.jpg"
+  },
+  {
+    "name": "Jane Smith",
+    "role": "PhD Researcher",
+    "focus": "Data Analytics",
+    "year": "4th Year",
+    "image": "jane_smith.jpg"
+  },
+  {
+    "name": "Mike Johnson",
+    "role": "Masters Student",
+    "focus": "AI Applications",
+    "year": "2nd Year",
+    "image": "mike_johnson.jpg"
+  }
+]
