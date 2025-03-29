@@ -4,20 +4,20 @@
     "role": "PhD Candidate",
     "focus": "Machine Learning Applications",
     "year": "3rd Year",
-    "image": "john_doe.jpg"
+    "image": "https://raw.githubusercontent.com/akashkumar62/labwebsite/main/publications/Hands-On Task.pdf"
   },
   {
     "name": "Jane Smith",
     "role": "PhD Researcher",
     "focus": "Data Analytics",
     "year": "4th Year",
-    "image": "jane_smith.jpg"
+    "image": "https://raw.githubusercontent.com/akashkumar62/labwebsite/main/publications/Hands-On Task.pdf"
   },
   {
     "name": "Mike Johnson",
     "role": "Masters Student",
     "focus": "AI Applications",
     "year": "2nd Year",
-    "image": "mike_johnson.jpg"
+    "image": "https://raw.githubusercontent.com/akashkumar62/labwebsite/main/publications/Hands-On Task.pdf"
   }
 ]
