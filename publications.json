@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Title of Research Paper 1",
+    "journal": "Journal of Advanced Research, 2023",
+    "authors": "John Doe, Jane Smith, et al.",
+    "topics": ["Machine Learning", "Deep Learning"],
+    "year": 2023,
+    "pdf": "https://raw.githubusercontent.com/akashkumar62/labwebsite/main/publications/paper1.pdf"
+  },
+  {
+    "title": "Title of Research Paper 2",
+    "journal": "International Journal of Science, 2023",
+    "authors": "John Doe, Jane Smith, et al.",
+    "topics": ["AI", "Computer Vision"],
+    "year": 2023,
+    "pdf": "https://raw.githubusercontent.com/akashkumar62/labwebsite/main/publications/paper1.pdf"
+  }
+]
