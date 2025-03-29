@@ -14,5 +14,21 @@
     "topics": ["AI", "Computer Vision"],
     "year": 2023,
     "pdf": "https://raw.githubusercontent.com/akashkumar62/labwebsite/main/publications/Software_Dev._Engineer-1_Intern___JD.docx.pdf"
+  },
+  {
+    "title": "Title of Research Paper 2",
+    "journal": "International Journal of Science, 2023",
+    "authors": "John Doe, Jane Smith, et al.",
+    "topics": ["AI", "Computer Vision"],
+    "year": 2023,
+    "pdf": "https://raw.githubusercontent.com/akashkumar62/labwebsite/main/publications/Software_Dev._Engineer-1_Intern___JD.docx.pdf"
+  },
+  {
+    "title": "Title of Research Paper 2",
+    "journal": "International Journal of Science, 2023",
+    "authors": "John Doe, Jane Smith, et al.",
+    "topics": ["AI", "Computer Vision"],
+    "year": 2023,
+    "pdf": "https://raw.githubusercontent.com/akashkumar62/labwebsite/main/publications/Software_Dev._Engineer-1_Intern___JD.docx.pdf"
   }
 ]
