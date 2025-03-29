@@ -1,3 +1,12 @@
-{
-"image": "https://raw.githubusercontent.com/akashkumar62/labwebsite/main/gallery/WhatsApp Image 2025-01-22 at 6.03.11 PM.jpeg"
-}
+[
+  "https://your-storage-url.com/gallery/image1.jpg",
+  "https://your-storage-url.com/gallery/image2.jpg",
+  "https://your-storage-url.com/gallery/image3.jpg",
+  "https://your-storage-url.com/gallery/image4.jpg",
+  "https://your-storage-url.com/gallery/image5.jpg",
+  "https://your-storage-url.com/gallery/image6.jpg",
+  "https://your-storage-url.com/gallery/image7.jpg",
+  "https://your-storage-url.com/gallery/image8.jpg",
+  "https://your-storage-url.com/gallery/image9.jpg",
+  "https://your-storage-url.com/gallery/image10.jpg"
+]
