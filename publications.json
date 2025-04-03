@@ -1,34 +1,26 @@
 [
   {
-    "title": "Title of Research Paper 1",
-    "journal": "Journal of Advanced Research, 2023",
-    "authors": "John Doe, Jane Smith, et al.",
-    "topics": ["Machine Learning", "Deep Learning"],
-    "year": 2023,
-    "pdf": "https://raw.githubusercontent.com/akashkumar62/labwebsite/main/publications/Hands-On Task.pdf"
+    "description": "R. Kushwaha, V. Singh, S. Peters, A. K. Yadav, D. Dolui, S. Saha, S. Sarkar, A. Dutta, B. Koch, T. Sadhukhan, Samya Banerjee*. Density Functional Theory-Guided Photo-Triggered Anticancer Activity of Curcumin-Based Zinc(II) Complexes, J. Phys. Chem. B, 2023.",
+    "link": "https://doi.org/10.1021/acs.jpcb.3c02382"
   },
   {
-    "title": "Title of Research Paper 2",
-    "journal": "International Journal of Science, 2023",
-    "authors": "John Doe, Jane Smith, et al.",
-    "topics": ["AI", "Computer Vision"],
-    "year": 2023,
-    "pdf": "https://raw.githubusercontent.com/akashkumar62/labwebsite/main/publications/Software_Dev._Engineer-1_Intern___JD.docx.pdf"
+    "description": "A. Mandal, R. Rai, S. Saha, R. Kushwaha, W. Li, H. Gogoi, A. A. Mandal, A. K. Yadav, H. Huang, A. Dutta, P. Dhar, Samya Banerjee*. Polypyridyl-based Co(III) complexes of vitamin B6 Schiff base for photoactivated antibacterial therapy, Dalton Trans. 2023.",
+    "link": "https://doi.org/10.1039/D3DT02967K"
   },
   {
-    "title": "Title of Research Paper 2",
-    "journal": "International Journal of Science, 2023",
-    "authors": "John Doe, Jane Smith, et al.",
-    "topics": ["AI", "Computer Vision"],
-    "year": 2023,
-    "pdf": "https://raw.githubusercontent.com/akashkumar62/labwebsite/main/publications/Software_Dev._Engineer-1_Intern___JD.docx.pdf"
+    "description": "R. Kushwaha, R. Rai, V. Gawande, V. Singh, A. K. Yadav, B. Koch, P. Dhar, Samya Banerjee*. Antibacterial Photodynamic Therapy by Zn(II)-Curcumin Complex: Synthesis, Characterization, DFT Calculation, Antibacterial Activity, and Molecular Docking, ChemBioChem, 2023.",
+    "link": "https://doi.org/10.1002/cbic.202300652"
   },
   {
-    "title": "Title of Research Paper 2",
-    "journal": "International Journal of Science, 2023",
-    "authors": "John Doe, Jane Smith, et al.",
-    "topics": ["AI", "Computer Vision"],
-    "year": 2023,
-    "pdf": "https://raw.githubusercontent.com/akashkumar62/labwebsite/main/publications/Software_Dev._Engineer-1_Intern___JD.docx.pdf"
+    "description": "A. K. Yadav, V. Singh, R. Kushwaha, D. Dolui, R. Rai, P. Dhar, A. Dutta, B. Koch, Samya Banerjee*. Polypyridyl Co (II)-Curcumin Complexes as Photo-activated Anticancer and Antibacterial Agents, ChemBioChem, 2023.",
+    "link": "https://doi.org/10.1002/cbic.202300033"
+  },
+  {
+    "description": "S. Zhu, L. Wei, A. K. Yadav, Z. Fan, A. Kumar, M. Miao, Samya Banerjee*, H. Huang. Cyanine-Functionalized 2, 2'-Bipyridine Compounds for Photocatalytic Cancer Therapy, J. Org. Chem. 2023.",
+    "link": "https://doi.org/10.1021/acs.joc.3c02631"
+  },
+  {
+    "description": "A. A. Mandal, R. Kushwaha, A. A. Mandal, S. Bajpai, A. K. Yadav, Samya Banerjee*. Transition Metal Complexes as Antimalarial Agents: A Review, ChemMedChem, 2023.",
+    "link": "https://doi.org/10.1002/cmdc.202300326"
   }
 ]
