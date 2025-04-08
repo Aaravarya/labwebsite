@@ -1,12 +1,12 @@
-[ {
+[
+  {
     "name": "Mohd Farhan Ansari",
     "role": "PhD Student",
     "focus": "Conversion of Bioactive compounds into platform compound",
     "year": "2023",
     "image": "https://raw.githubusercontent.com/akashkumar62/labwebsite/main/gallery/farhan.jpg",
-    "linkedin": "https://www.linkedin.com/in/michaellee",
-    "github": "https://github.com/michaellee",
-    "email": "michaellee@example.com"
+    "orcid": "https://orcid.org/0009-0007-8475-8167",
+    "scholar": "https://orcid.org/0009-0007-8475-8167"
   },
   {
     "name": "Atul Kumar Maurya",
@@ -14,9 +14,8 @@
     "focus": "Hydrofunctionalization with pincer metal complexes.",
     "year": "2023",
     "image": "https://raw.githubusercontent.com/akashkumar62/labwebsite/main/teams/atul.jpeg",
-    "linkedin": "https://www.linkedin.com/in/atul-kumar-maurya-res-scholar-chemistry-iit-bhu-2a812a328/?utm_source=share&utm_campaign=share_via&utm_content=profile",
-    "github": "https://github.com/michaellee",
-    "email": "michaellee@example.com"
+    "orcid": "https://orcid.org/0009-0007-8475-8167",
+    "scholar": "https://orcid.org/0009-0007-8475-8167"
   },
   {
     "name": "Ratnakar Singh",
@@ -24,9 +23,8 @@
     "focus": "Chemistry of 3d transition metal complexes",
     "year": "2024",
     "image": "https://raw.githubusercontent.com/akashkumar62/labwebsite/main/teams/rsingh.jpeg",
-    "linkedin": "https://www.linkedin.com/in/ratnakar-singh-303951208/?utm_source=share&utm_campaign=share_via&utm_content=profile",
-    "github": "https://github.com/johndoe",
-    "email": "johndoe@example.com"
+    "orcid": "https://orcid.org/0009-0007-8475-8167",
+    "scholar": "https://orcid.org/0009-0007-8475-8167"
   },
   {
     "name": "Rashid Khan",
@@ -34,21 +32,8 @@
     "focus": "Conversion of Bioactive compounds into platform compound",
     "year": "2024",
     "image": "https://raw.githubusercontent.com/akashkumar62/labwebsite/main/teams/rr.jpeg",
-    "linkedin": "https://www.linkedin.com/in/janesmith",
-    "github": "https://github.com/janesmith",
-    "email": "janesmith@example.com"
-  },
-  
-   
-  {
-    "name": "atul",
-    "role": "Alumni",
-    "focus": "NLP for Legal Tech",
-    "year": "2024",
-    "image": "https://raw.githubusercontent.com/akashkumar62/labwebsite/main/teams/WhatsApp%20Image%202025-01-22%20at%206.03.11%20PM.jpeg",
-    "linkedin": "https://www.linkedin.com/in/michaellee",
-    "github": "https://github.com/michaellee",
-    "email": "michaellee@example.com"
+    "orcid": "https://orcid.org/0009-0007-8475-8167",
+    "scholar": "https://orcid.org/0009-0007-8475-8167"
   },
   {
     "name": "atul",
@@ -56,9 +41,8 @@
     "focus": "NLP for Legal Tech",
     "year": "2024",
     "image": "https://raw.githubusercontent.com/akashkumar62/labwebsite/main/teams/WhatsApp%20Image%202025-01-22%20at%206.03.11%20PM.jpeg",
-    "linkedin": "https://www.linkedin.com/in/michaellee",
-    "github": "https://github.com/michaellee",
-    "email": "michaellee@example.com"
+    "orcid": "https://orcid.org/0009-0007-8475-8167",
+    "scholar": "https://orcid.org/0009-0007-8475-8167"
   },
   {
     "name": "atul",
@@ -66,9 +50,8 @@
     "focus": "NLP for Legal Tech",
     "year": "2024",
     "image": "https://raw.githubusercontent.com/akashkumar62/labwebsite/main/teams/WhatsApp%20Image%202025-01-22%20at%206.03.11%20PM.jpeg",
-    "linkedin": "https://www.linkedin.com/in/michaellee",
-    "github": "https://github.com/michaellee",
-    "email": "michaellee@example.com"
+    "orcid": "https://orcid.org/0009-0007-8475-8167",
+    "scholar": "https://orcid.org/0009-0007-8475-8167"
   },
   {
     "name": "atul",
@@ -76,9 +59,8 @@
     "focus": "NLP for Legal Tech",
     "year": "2024",
     "image": "https://raw.githubusercontent.com/akashkumar62/labwebsite/main/teams/WhatsApp%20Image%202025-01-22%20at%206.03.11%20PM.jpeg",
-    "linkedin": "https://www.linkedin.com/in/michaellee",
-    "github": "https://github.com/michaellee",
-    "email": "michaellee@example.com"
+    "orcid": "https://orcid.org/0009-0007-8475-8167",
+    "scholar": "https://orcid.org/0009-0007-8475-8167"
   },
   {
     "name": "atul",
@@ -86,9 +68,17 @@
     "focus": "NLP for Legal Tech",
     "year": "2024",
     "image": "https://raw.githubusercontent.com/akashkumar62/labwebsite/main/teams/WhatsApp%20Image%202025-01-22%20at%206.03.11%20PM.jpeg",
-    "linkedin": "https://www.linkedin.com/in/michaellee",
-    "github": "https://github.com/michaellee",
-    "email": "michaellee@example.com"
+    "orcid": "https://orcid.org/0009-0007-8475-8167",
+    "scholar": "https://orcid.org/0009-0007-8475-8167"
+  },
+  {
+    "name": "atul",
+    "role": "Alumni",
+    "focus": "NLP for Legal Tech",
+    "year": "2024",
+    "image": "https://raw.githubusercontent.com/akashkumar62/labwebsite/main/teams/WhatsApp%20Image%202025-01-22%20at%206.03.11%20PM.jpeg",
+    "orcid": "",
+    "scholar": ""
   },
   {
     "name": "atul",
@@ -96,9 +86,8 @@
     "focus": "NLP for Legal Tech",
     "year": "2024",
     "image": "https://raw.githubusercontent.com/akashkumar62/labwebsite/main/teams/WhatsApp%20Image%202025-01-22%20at%206.03.11%20PM.jpeg",
-    "linkedin": "https://www.linkedin.com/in/michaellee",
-    "github": "https://github.com/michaellee",
-    "email": "michaellee@example.com"
+    "orcid": "",
+    "scholar": ""
   },
   {
     "name": "atul",
@@ -106,8 +95,7 @@
     "focus": "NLP for Legal Tech",
     "year": "2024",
     "image": "https://raw.githubusercontent.com/akashkumar62/labwebsite/main/teams/WhatsApp%20Image%202025-01-22%20at%206.03.11%20PM.jpeg",
-    "linkedin": "https://www.linkedin.com/in/michaellee",
-    "github": "https://github.com/michaellee",
-    "email": "michaellee@example.com"
+    "orcid": "",
+    "scholar": ""
   }
 ]
