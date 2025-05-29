@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Glovebox",
+    "description": "For handling air-sensitive compounds under inert atmosphere.",
+    "image": "https://www.despatch.com/blog/wp-content/uploads/2023/01/trnava-university-_9xRHrMOjeg-unsplash.jpg"
+  },
+  {
+    "title": "Schlenk Line",
+    "description": "Glassware setup for air-free synthesis and vacuum techniques.",
+    "image": "https://www.despatch.com/blog/wp-content/uploads/2023/01/trnava-university-_9xRHrMOjeg-unsplash.jpg"
+  },
+  {
+    "title": "NMR Spectrometer",
+    "description": "Used to determine molecular structures and compositions.",
+    "image": "https://www.despatch.com/blog/wp-content/uploads/2023/01/trnava-university-_9xRHrMOjeg-unsplash.jpg"
+  },
+  {
+    "title": "GC-MS",
+    "description": "For gas chromatography and mass spectrometry analysis.",
+    "image": "https://www.despatch.com/blog/wp-content/uploads/2023/01/trnava-university-_9xRHrMOjeg-unsplash.jpg"
+  },
+  {
+    "title": "UV-Vis Spectrophotometer",
+    "description": "Analyzes absorption spectra of various compounds.",
+    "image": "https://www.despatch.com/blog/wp-content/uploads/2023/01/trnava-university-_9xRHrMOjeg-unsplash.jpg"
+  },
+  {
+    "title": "Fume Hood",
+    "description": "Ensures safe handling of hazardous chemicals.",
+    "image": "https://www.despatch.com/blog/wp-content/uploads/2023/01/trnava-university-_9xRHrMOjeg-unsplash.jpg"
+  }
+]
